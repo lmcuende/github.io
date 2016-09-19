@@ -1,1 +1,2 @@
-# github.io
+# coursera-test
+Test Coursera module1 solution
